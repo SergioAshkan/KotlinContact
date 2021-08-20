@@ -8,7 +8,7 @@
     <uses-permission android:name="android.permission.READ_CONTACTS" />
     <application android:label="@string/Ashkan_contact_android">
 
-        <activity android:name="alizade_Activity"
+        <activity android:name="Ashkan_Activity"
                   android:label="@string/Ashkan_contact_android ">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
